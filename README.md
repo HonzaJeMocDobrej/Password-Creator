@@ -1,3 +1,3 @@
 # Password-Creator
-<h1>Download the file and run</h1>
+<h4>Download the file and run</h4>
 <p>(Python required)<p>
