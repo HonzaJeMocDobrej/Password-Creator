@@ -1,3 +1,3 @@
 # Password-Creator
-<h4><a href="main.py" download>Download the file and run</a></h4>
+[Download Minion](https://octodex.github.com/images/minion.png "download")
 <p>(Python required)<p>
