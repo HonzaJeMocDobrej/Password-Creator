@@ -1,3 +1,3 @@
 # Password-Creator
-[Download Minion](https://octodex.github.com/images/minion.png "download")
+[Download and run](https://github.com/HonzaJeMocDobrej/Password-Creator/blob/main/main.py "download")
 <p>(Python required)<p>
